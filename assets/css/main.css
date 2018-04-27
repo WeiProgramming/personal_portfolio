@@ -1580,7 +1580,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color: #fcbb23;
 		line-height: 1.5em;
 	}
 
@@ -1672,6 +1672,7 @@
 
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
+		color:#b1afaf;
 	}
 
 	br.clear {
@@ -2032,7 +2033,7 @@
 			}
 
 				#header .icons a:hover {
-					color: #fff;
+					color: #fcbb23;
 				}
 
 	#logo {
@@ -2187,15 +2188,15 @@
 			}
 
 			#main > section.two {
-				background-color: #f5fafa;
+				background-color: #1e2323;
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: #1e2121;
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: #1e2323;
 			}
 
 /* Wide */
