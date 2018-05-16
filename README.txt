@@ -1,3 +1,2 @@
-Welcome to my profile!
-This site was created using HTML5 up template
-Fully customized by me
+Welcome to my personal portfolio!
+Just a static web page.
