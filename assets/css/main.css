@@ -1951,6 +1951,13 @@
 				font-size: 1em;
 			}
 
+/* header */
+	header {
+		color:black;
+	}
+	#main > section.dark strong {
+		color: #fcbb23 !important;
+	}
 /* Icons */
 
 	.icon {
